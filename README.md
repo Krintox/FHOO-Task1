@@ -1,1 +1,1 @@
-Link to the website[https://fhoo-help.netlify.app/]
+[Link to the website](https://fhoo-help.netlify.app/)
