@@ -1,1 +1,1 @@
-Link to the website[https://krintox.github.io/FHOO-Task1/]
+Link to the website[https://fhoo-help.netlify.app/]
